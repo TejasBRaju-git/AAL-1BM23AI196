@@ -109,3 +109,24 @@ int main() {
 
     return 0;
 }
+
+#ouput
+Minimum Spanning Tree (MST) Edges:
+Edge 	Weight
+A - B 	2
+A - D 	3
+C - E 	5
+D - C 	4
+
+Graphical Representation of MST:
+
+       2
+   A -------- B
+   | 
+  3| 
+   | 
+   D -------- C
+       4     
+       5     |
+              |
+              E
