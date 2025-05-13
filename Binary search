@@ -70,3 +70,12 @@ int main() {
 
     return 0;
 }
+
+#output
+
+Enter the number of elements (up to 1000): 10
+Array elements (sorted):
+3 5 13 23 32 34 36 45 65 78 
+Random key to search for: 32
+Element 32 is found at index 4.
+Time Taken in seconds: 0.000000
